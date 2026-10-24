@@ -1,122 +1,843 @@
 ﻿taluka,panchayat,name,mobile
-Jaoli,AAKHEGANI,अनिता विलास भिलारे,9372537751
+Jaoli,Aakhegani,Anita Vilas Bhilare,9372537751
 Jaoli,AGALAWEWADI,अक्षय सुहास कांबळे,7028811072
-Jaoli,AKHADE,संगीता अनिल जाधव,9822195408
-Jaoli,AMBEGHAR T. MEDHA,सुभाष श्रीरंग शेलार,9284102557
-Jaoli,AMBEGHAR T.KUDAL,अनिल पांडुरंग यादव,9822498473
-Jaoli,ANDHARI,मयुरेश अशोक किर्दत,7743868907
-Jaoli,Anewadi,स्नेहल राहुल सपकाळ,7588220621
-Jaoli,APATI,विनोद धोंडिबा कदम,9423336923
-Jaoli,ARDE,दिनकर पांडुरंग रोकडे,7822054268
-Jaoli,ASANI,सागर विजय धनवडे,9975988111
-Jaoli,Bahule,साक्षी बंडू जाधव,9511235487
-Jaoli,BAMNOLI T. KUDAL,पवन धर्मू तरडे,9527933747
-Jaoli,BANOLI KASBE,अंकुश राजाराम पवार,9421115711
-Jaoli,BELAWADE,अतुल दत्तात्रय जाधव,8855944162
-Jaoli,Bhaleghar,हनुमंत बाबूराव पवार,9270065028
-Jaoli,BHANANG,चंद्रशेखर उद्धव जाधव,9890128762
-Jaoli,Bhiwadi,अनिकेत सुरेश जंभळे,9890922672
-Jaoli,Bhogavali T. Medha,दीपक काशिनाथ जाधव,9764200652
-Jaoli,BHOGAWALI T.KUDAL,संदीप हनुमंत गोळे,9309907532
-Jaoli,BHUTEGHAR,अनिल शंकर मानकुंवरे,9356285435
-Jaoli,BIBHAVI,सुहास सयाजी परिहार,8390876841
-Jaoli,BONDARWADI,सीमा वसंत मानकुंवरे,8407981365
-Jaoli,Chorambe,ज्ञानेश्वर नारायण पवार,9403803368
-Jaoli,DANGREGHAR,उषा सूर्यकांत उंबरकर,9404295936
-Jaoli,DAPWADI,सीमा रांजणे,7666957121
-Jaoli,DARE BK,ऋतुराज रवींद्र महामूलकर,7350612965
-Jaoli,DARE KHU.,प्रवीण आनंदराव पवार,7218839699
-Jaoli,DHANKAWADI,सोपान शंकर इंगुळकर,9324926749
-Jaoli,DHONDEWADI,विकास नथू ढोंडे,7350300030
-Jaoli,DIVDIV,रामचंद्र शंकर जुनघरे,8286541517
-Jaoli,Duduskarwadi,राजेंद्र सर्जेराव मोरे,9850413591
-Jaoli,DUND,नारायण बाबूराव कदम,7030202754
-Jaoli,GADHAWALI,विलास महादेव शिंदे,9421743940
-Jaoli,GALDEV GROUP,रामचंद्र भिवराम जंगम,9923828300
-Jaoli,Ganje,सीमा बळीराम चिकणे,7218962063
-Jaoli,GAVADI,नारायण सीताराम धनवडे,8080999067
-Jaoli,GHOTEGHAR,रामचंद्र लक्ष्मण रांजणे,9823446109
-Jaoli,GONDEMAL,दीपक शंकर पटे,9819119495
-Jaoli,HATAGEGHAR,प्रकाश जगन्नाथ गोळे,8999578950
-Jaoli,HUMGAON,दत्तात्रय ज्ञानेश्वर कदम,9657254326
-Jaoli,Indavali T. Kudal,अंशुल संजय गायकवाड,8605347938
-Jaoli,Jarewadi,नीता ज्ञानेश्वर नवसरे,9021473034
-Jaoli,JAVALWADI,सोमनाथ जोतिराम जवळ,7030430963
-Jaoli,Kaloshi,प्रकाश बालकृष्ण शेलार,9833221313
-Jaoli,Karandi T. Kudal,आनंदराव जिजाबा निकम,8767891377
-Jaoli,KARANDI T. MEDHA,कविता चंद्रकांत भोसले,9527976924
-Jaoli,KARGAON,तुकाराम मधुकर सपकाळ,9403944453
-Jaoli,KARHAR,तानाजी आनंदराव गोळे,9011372035
-Jaoli,KARNDOSHI,प्रजित सुभाष महामूलकर,8369813639
-Jaoli,Karnje,काशिनाथ श्रीपती धनवडे,9404835273
-Jaoli,Karshi Baramure,रवींद्र आनंदराव गावडे,8600043675
-Jaoli,KATWALI,अक्षय महेश जंगम,9309830209
-Jaoli,KAWADI,महेश आनंदराव मानकुंवरे,8652599523
-Jaoli,Kelaghar T. Medha,आनंदा कोंडिबा भिलारे,9503060921
-Jaoli,Kendambe,वनिता दीपक ओम्बळे,8788611941
-Jaoli,Kenjal,शरद मुगुटराव केंजळे,9890883542
-Jaoli,KESKARWADI,दत्तात्रय बजरंग साळुंखे,7507110921
-Jaoli,Kharshi T. Kudal,तुषार हरिश्चंद्र भोसले,9175007101
-Jaoli,Kolewadi,आकांक्षा अभिजीत नवसरे,9325604108
+Jaoli,Akhade,Sangita Anil Jadhav,9822195408
+Jaoli,Ambeghar T. Medha,Subhash Shrirang Shelar,9284102557
+Jaoli,Ambeghar T.Kudal,Anil Pandurang Yadav,9822498473
+Jaoli,Andhari,Mayuresh Ashok Kirdat,7743868907
+Jaoli,Anewadi,Snehal Rahul Sapkal,7588220621
+Jaoli,Apati,Vinod Dhondiba Kadam,9423336923
+Jaoli,Arde,Dinkar Pandurang Rokade,7822054268
+Jaoli,Asani,Sagar Vijay Dhananwade,9975988111
+Jaoli,Bahule,Sakshi Bandu Jadhav,9511235487
+Jaoli,Bamnoli T. Kudal,Pavan Dharmu Tarade,9527933747
+Jaoli,Banoli Kasbe,Ankush Rajaram Pawar,9421115711
+Jaoli,Belawade,Atul Dattatray Jadhav,8855944162
+Jaoli,Bhaleghar,Hanmant Baburao Pawar,9270065028
+Jaoli,Bhamghar,Monika Avinash Patne,8459255058
+Jaoli,Bhanang,Chandrashekhar Uddhav Jadhav,9890128762
+Jaoli,Bhiwadi,Aniket Suresh Jambhale,9890922672
+Jaoli,Bhogavali T. Medha,Deepak Kashinath Jadhav,9764200652
+Jaoli,Bhogawali T.Kudal,Sandip Hanmant Gole,9309907532
+Jaoli,Bhuteghar,Anil Shankar Mankumare,9356285435
+Jaoli,Bibhavi,Suhas Sayaji Parihar,8390876841
+Jaoli,Bondarwadi,Seema Vasant Mankumbare,8407981365
+Jaoli,Chorambe,Dnyaneshwar Narayan Pawar,8999336350
+Jaoli,Dangreghar,Usha Suryankant Umbarkar,8407979233
+Jaoli,Dapwadi,Seema Prakash Ranjane,7666957121
+Jaoli,Dare Bk,Ruturaj Ravindra Mahamulkar,7350612965
+Jaoli,Dare Khu.,Pravin Anandrao Pawar,7218839699
+Jaoli,Dhankawadi,Sopan Shankar Ingulkar,9324926749
+Jaoli,Dhondewadi,Vikas Nathu Dhonde,7350300030
+Jaoli,Divdiv,Ramchandra Shankar Junghare,8286541517
+Jaoli,Duduskarwadi,Rajendra Sarjirao More,9850413591
+Jaoli,Dund,Narayan Baburao Kadam,7030202754
+Jaoli,Gadhawali,Vilas Mahadev Shelar,9421743940
+Jaoli,Galdev Group,Seema Baliram Chikane,9923828300
+Jaoli,Ganje,Sameer Rohidas Ghadage,7218962063
+Jaoli,Gavadi,GAVADI Narayan Sitaram Dhanawade,8080999067
+Jaoli,Ghoteghar,Ramchandra Ranjane,9823446109
+Jaoli,Gondemal,Dipak Shankar Parte,9819119495
+Jaoli,Hatageghar,Dnyaneshwar Maruti Shinde,8999578950
+Jaoli,Humgaon,Dattatray Dnyaneshwar Kadam,9657254326
+Jaoli,Indavali T. Kudal,Nita Dnyaneshwar Navsare,8605347938
+Jaoli,Jarewadi,Somnath Jotiram Jawal,9021473034
+Jaoli,Javalwadi,Prakash Balkrushna Shelar,7030430963
+Jaoli,Kaloshi,Prakash Balkrushna Shelar,7030430963
+Jaoli,Karandi T. Kudal,Aanandrao Jijaba Nikam,8767891377
+Jaoli,Karandi T. Medha,Kishor Rajaram Dundle,8698365292
+Jaoli,Kargaon,Tukaram Madhukar Sapkal,9403944453
+Jaoli,Karhar,Tanaji Anandrao Gole,9011372035
+Jaoli,Karndoshi,Prajit Subhash Mahamulkar,8369813639
+Jaoli,Karnje,Kashinath Shripati Dhanawade,9404835273
+Jaoli,Karshi Baramure,Ravindra Aanandrao Gawade,8600043675
+Jaoli,Katwali,Akshay Mahesh Jangam,9309830209
+Jaoli,Kawadi,Mahesh Anandrao Mankumare,8652599523
+Jaoli,Kelaghar T. Medha,Ananda Kondiba Bhilare,9503060921
+Jaoli,Kelghar Solashi,Ravindra Shankarao Salunkhe,9420628342
+Jaoli,Kendambe,Vanita Dipak Ombale,8788611941
+Jaoli,Kenjal,Sharad Mugutrav Kenjale,9890883542
+Jaoli,Keskarwadi,Dattatray Bajarang Salunkhe,7507110921
+Jaoli,Kharshi T. Kudal,Tushar Harishchandra Bhosale,9175007101
+Jaoli,Kolewadi,Akansha Abhijit Navasare,9325604108
 Jaoli,KUDAL,निलेश मोहन कांबळे,7350782199
-Jaoli,Kumbhargani,सुनील भिकू जाधव,9867793865
-Jaoli,KURLOSHI,पूनम सतीश पाटील,7066015289
-Jaoli,KUSUMBI,संगीता जिजाबा वेण्डे,9623983673
-Jaoli,MAHAMULKARWADI,पंकज सुभाष महामूलकर,8308313203
-Jaoli,MAHIGAON,सोमनाथ शंकर सावंत,9356074006
-Jaoli,MAHU,चंद्रकांत राजाराम गोळे,9689699809
-Jaoli,MALCHAOUNDI,पूजा सुनील रावले,9579464039
-Jaoli,MAMURDI,ज्ञानेश्वर अशोक धनवडे,9359730367
-Jaoli,MARLI,सूर्यकांत शिवाजी गोळे,9922776034
-Jaoli,MHASAVE,तेजस शामराव पवार,9075097880
-Jaoli,MHATE BU.,संतोष दजिराम गोगवले,8766694354
-Jaoli,MHATE KHU.,चैताली आनंदा दळवी,7588398403
-Jaoli,MOHAT,संतोष आनंदराव धनवडे,7507766859
-Jaoli,MORGHAR,रमेश नारायण गायकवाड,8805339972
-Jaoli,MUNAVALE,किशोर विष्णू भोसले,9420692338
-Jaoli,Nandgane,गणपत दत्तू दळवी,8806423665
-Jaoli,Narafdev,चंद्रकांत दिनकर साखरे,9307233047
-Jaoli,Nizare,शकुंतला लक्ष्मण भिलारे,7776092696
-Jaoli,OKHAWADI,तेजस सोपान शेलार,8552035530
-Jaoli,Panas Pu,आनंदा तुकाराम पाकिरे,8999860400
-Jaoli,Pawarwadi,संजीवन दत्तात्रय घाडगे,9850953611
-Jaoli,Pimpri T. Medha,श्रेया नितीन वांगडे,7028520268
-Jaoli,Punwadi,गणपत धोंडिबा पटे,8007890577
-Jaoli,Raigaon,लखन उत्तम पवार,9922639392
+Jaoli,Kumbhargani,Sunil Bhiku Jadhav,9867793865
+Jaoli,Kurloshi,Punam Satish Patil.,7066015289
+Jaoli,Kusumbi,Sangita Jijaba Vende,9623983673
+Jaoli,Mahamulkarwadi,Pankaj Subhash Mahamulkar,8308313203
+Jaoli,Mahigaon,Somnath Shankar Sawant,9356074006
+Jaoli,Mahu,Chandrakant Rajaram Gole,9689699809
+Jaoli,Malchaoundi,Pooja Sunil Rawale,9579464039
+Jaoli,Mamurdi,Dnyaneshwar Ashok Dhanawade,9359730367
+Jaoli,Mardmure,Mardhekar,9689420485
+Jaoli,Marli,Surykant Shivaji Gole,9922706034
+Jaoli,Mhasave,Tejas Shamrao Pawar,9075097880
+Jaoli,Mhate Bu.,Santosh Dajiram Gogawale,8766694354
+Jaoli,Mhate Khu.,Chaitali Ananda Dalavi,7588398403
+Jaoli,Mohat,MOHAT Santosh Anandrao Dhanawade,7507766859
+Jaoli,Moravale,Akash Bhanudas Kudave,9923974842
+Jaoli,Morghar,Ramesh Narayan Gaikwad,8805339972
+Jaoli,Mukwali,Suhas Shivram Bailkar,9373671631
+Jaoli,Munavale,Kishore Vishnu Bhosale,9420692338
+Jaoli,Nandgane,Ganpat Dattu Dalvi,8806423665
+Jaoli,Narafdev,Chandrakant Dinkar Sakhare,9021366215
+Jaoli,Nipani,Namdev Govind Bandre,9403127769
+Jaoli,Nizare,Shankyntala Laxman Bhilare,7776092696
+Jaoli,Okhawadi,Tejas Sopan Shelar,9082310576
+Jaoli,Panas,Ranjeet Shivaji Gole,8108412457
+Jaoli,Panas Pu,Ananda Tukaram Pakire,8999860400
+Jaoli,Pawarwadi,Sanjivan Dattatray Ghadge,9850953611
+Jaoli,Pimpli,Rohan Lalsing Shinde,9922383391
+Jaoli,Pimpri T. Medha,Shreya Nitin Wangade,7028520228
+Jaoli,Punwadi,Ganpat Dhondiba Parte,9579081145
+Jaoli,Raigaon,Lakjhan Uttam Pawar,9922639392
 Jaoli,RAMWADI,सुलाभा अतुल गोळे,7057367544
-Jaoli,RANGEGHAR,विशाल पांडुरंग सपकाळ,9373930239
-Jaoli,Ritkavali,विश्वास पांडुरंग चव्हाण,9689623808
-Jaoli,Ruighar,विजया विशाल कांबळे,8600643878
-Jaoli,Saigaon,दयानंद खंडू सोनवणे,9881938341
-Jaoli,SANPANE,सुनील राजाराम पवार,9004844670
-Jaoli,Sarjapur,काजल गणेश बोराटे,9975798802
-Jaoli,Sartale,अश्विनी सचिन बर्गे,9096423938
-Jaoli,SAVALI,सुषमा रवींद्र जुनघरे,7038350734
-Jaoli,SHEMBDI,नथूराम लक्ष्मण साळुंखे,9423936235
+Jaoli,Rangeghar,Vishal Pandurang Sapkal,9373930239
+Jaoli,Ranjani,Nilam Dipak Pawar,7875154802
+Jaoli,Rengadi,Sonali Nilesh Kasurde,8698613653
+Jaoli,Ritkavali,Vishwas Pandurang Chavan,9689623808
+Jaoli,Ruighar,Vijaya Vishal Kambale,9373713947
+Jaoli,Saigaon,Dayanand Khandu Sonavwne,9881938341
+Jaoli,Sangavi T. Medha,Sunil Dnandev Pawaqr,9702348312
+Jaoli,Sanpane,Sunil Rajaram Pawar,9004844670
+Jaoli,Sarjapur,Vipul Dhananjay Tarade,9766594852
+Jaoli,Sartale,Ashwini Sachin Barge,9325889061
+Jaoli,Savali,Sushma Ravindra Junghare,7038350734
+Jaoli,Shembdi,Nathuram Lakshman Salunkhe,9403883254
 Jaoli,SHINDEWADI,शामराव गोविंद शिंदे,9403346892
-Jaoli,TALOSHI,सचिन आनंदा बैळकर,9404751217
-Jaoli,TETALI,प्रकाश शंकर सुतार,9422490304
-Jaoli,Umbariwadi,दीपक धनाजी जाधव,9422072084
-Jaoli,Vivar,किशोर बाळासाहेब धनवडे,9594360057
-Jaoli,WAGHDARE,राजू गेनू शेलार,9420488390
-Jaoli,WALANJWADI,श्रीकांत बालकृष्ण पडळे,7507206277
-Jaoli,WALUTH,किरण आनंदराव भिलारे,9373760667
-Jaoli,WAROSHI,शिवानी कदम,8698713815
-Jaoli,Yekiv,बजरंग शांताराम कदम,9922113463
-Khatav,Banpuri,चैताली राजेश देवकर,8767882341
-Khatav,Gadewadi,विष्णू मारुती जाधव,7768896439
-Khatav,Ganeshwadi,तुकाराम सोपान राऊत,9133507555
-Khatav,Pedgaon,शल्यवान यशवंत निकम,9922707601
-Koregaon,Apshinge,अमित सतीश फडतरे,9082751208
-Koregaon,Durgalwadi,मिथुन शशिकांत डोळारे,9657672595
-Koregaon,Ghadgewadi,महेश तुकाराम जाधव,9370658140
-Koregaon,Nigadi,संदीप नामदेव जगताप,8600902940
-Koregaon,Tadwale S.Wa.,कमलाकर शिवाजीराव भोईटे,8275275841
-Patan,Aabrang,शंकर बबन पवार,9881221549
+Jaoli,Songaon,Ajit Nanaso Nigade,9850346434
+Jaoli,Taloshi,Sachin Ananda Bailkar,9404751217
+Jaoli,Tetali,Prakash Shankar Sutar,9422490304
+Jaoli,Umbariwadi,Dipak Dhanji Jadhav,9075721184
+Jaoli,Vele,Thakuji Hariba Kokare,9545487161
+Jaoli,Vivar,Kishor Balasaheb Dhanawade,9594360057
+Jaoli,Waghdare,Raju Genu Shelar,9307773089
+Jaoli,Wahagaon,Santosh Dinkar Shirale,9623808680
+Jaoli,Walanjwadi,Shrikant Balkrushna Padale,7507206277
+Jaoli,Waluth,Kiran Sarjerao Bhilare,9373760667
+Jaoli,Waroshi,Shivani Jitendra Kadam,8698713835
+Jaoli,Yekiv,Vitthal Sadhu Kadam,8459876484
+Karad,Aatake,Nilesh Patil,9689367128
+Karad,Abaichi Wadi,Sarjerao Nivrutti Nangare,9373255584
+Karad,Adarshnagar(Shirgaon),Akshay Laxman Shejval,7378771124
+Karad,Akaichi Wadi,Lalaso Sagan Wadkar,9769522161
+Karad,Ane,Mayur Mohan Jadhav,9921479443
+Karad,Antawadi,Jayvant Keshav Mane,7798234327
+Karad,Arewadi,Sunil Jamlu Chavan,9730868645
+Karad,Babarmachi,Vinayak Rajaram Mane,9423150076
+Karad,Bamanwadi,Mahadev Parshuram Katekar,8459026923
+Karad,Bangudewadi,Shankar Laxman Nagare,9579646574
+Karad,Beldare,Sandip Shankar Chavan,9881870465
+Karad,Belwade Budruk,BELWADE BUDRUK Nivrutti Raghunath Tadake,9421997741
+Karad,Belwade Haveli,Swapnil Namdev Kachare,7387515100
+Karad,Belwadi,Gajanna Ramchandra Nalawade,8291124182
+Karad,Bhavanwadi,Priyanka Balaso Thorat,7517537723
+Karad,Bhmbe Pu,Sandip Raghunath Kate,9822432713
+Karad,Bhosalewadi,Pramod Shivling Shinde,7758020615
+Karad,Bhurbhushi,Rajesh Shankar Patil,9096883589
+Karad,Bolewade,Satish Nath Surywanshi,9284193255
+Karad,Chachegaon,Seema Prakash Berade,9049574271
+Karad,Charegaon,Jagannath Gpvomda Mane,9834436567
+Karad,Chikhali,Rajendra Hanmant Sawant,9890397816
+Karad,Chinchani,Amol Arjun Pawar,9359599564
+Karad,Chogulemala,Tanaji Lasxman Patil,9657974855
+Karad,Chorajwadi,Dipak Anandrao Marathe,8530403315
+Karad,Chore,Hema Suresh Kumbhar,9518936420
+Karad,Delewadi,Damaji Mahadev Babar,9673431602
+Karad,Dhankawadi,Suhas Vasant Gadale,8055873672
+Karad,Dhavarwadi,Savita Suhas Gadale,8055873672
+Karad,Dushere,Dhanaji Bhanudas Nikam,8830982955
+Karad,Gaikwadwadi,Dadaso Baban Pawar,8888090884
+Karad,Gamewadi,Ramchandra Annada Jadhav,8698509454
+Karad,Ganeshwadi,Vijay Hindurao Hinukale,9119423455
+Karad,Gharewadi,Rohit Ravindra Pisal,7775597798
+Karad,Ghogaon,Dhanaji Jayasing Patil,9665013033
+Karad,Gholapwadi,Shahaji Arjun Gholap,7620937879
+Karad,Ghonashi,Ravindra Shrirang Pisal,8605369966
+Karad,Godwadi(Umbraj),Shitej Santosh Ghadage,7058388019
+Karad,Goleshwar,Sandip Bhaskarrao Mane,8796367007
+Karad,Gondi,Dhanajay Shankar Gurav,7498605906
+Karad,Gosaviwadi,Lalaso Pantangrao Shinde,9527199072
+Karad,Gote,Omkar Ashok Pawar,7261940736
+Karad,Gotewadi,Nilkant Dattatray Shedage,9527199072
+Karad,Govare,Ganesh Ashok Toge,9172875505
+Karad,Hanmantwadi,Vinod Balkrushna More,9373683433
+Karad,Havelwadi,Vikas Vilas Thorat,9890457049
+Karad,Hazarmachi,Uday Hariba Karde,7387040796
+Karad,Helgaon,Seema Laxman Mandrulkar,9561047373
+Karad,Hingnole,Sachin Dattatray Kolekar,9657467434
+Karad,Indoli,Narayan Ganpati Jadhav,7776803800
+Karad,Jakhinwadi,Sharad Bharat Pawar,9881435406
+Karad,Jinti,Vaibhav Bapurao Patil,9881435406
+Karad,Jujarwadi,Gajanna Maruti Bakale,7972224197
+Karad,Kale,Avinash Ramrav Yadav,9503551559
+Karad,Kale Tek,Rohini Prashant Kumbhar,9850646268
+Karad,Kalgaon,Firoj Hanif Mulla,9588413407
+Karad,Kalwade,Ganesh Dhondiram Mane,7020447174
+Karad,Kamathi,Nivas Tanaji Khandagale,9970182497
+Karad,Kambirwadi,Aniket Lalaso Kambire,8329026917
+Karad,Kapil,Sarika Abaso Daigade,9373228455
+Karad,Karve,Namdev Bajarang Adake,9921572555
+Karad,Karwadi,Shrikant Ashok Pisal,8806527101
+Karad,Kasar Shirambe,Yuvraj Changdev Gaikwad,9325302002
+Karad,Kawathe,Amol Suresh Yadav,8806596433
+Karad,Kese,Dhanraj Dattatray Sathe,9922782829
+Karad,Khalkarwadi,Dadaso Shrirang Khalkar,9834241356
+Karad,Kharade,Akshay Bajirao Jadhav,8412996633
+Karad,Khodjaiwadi,Bajirang Maruti Kokate,7972583569
+Karad,Khodshi,Karan Jagdish Kanase,7273036262
+Karad,Khubi,Rajendra Dinkar Sutar,9730783252
+Karad,Kirpe,Balaso Maruti Devkar,9890233296
+Karad,Kiwal,Ganesh Mohan Jadhav,7020191609
+Karad,Kole,Tushar Bandu Chavan,9049252411
+Karad,Kolewadi,Imran Usman Mulla,8888909610
+Karad,Konegaon,Prashant Balkrishna Udugade,9921850663
+Karad,Koparde H,Sachin Madhukar Chavan,9850708819
+Karad,Koparde U,Vanita Yashwant Chavan,9850298005
+Karad,Koregaon,Anjali Popat Jadhav,9518560314
+Karad,Korti,Vaishali Vijay Gurav,9975880984
+Karad,Kusur,Vrushali Vilas Deshmukh,7066709898
+Karad,Latakewadi,Chandrakant Madhukar Chavna,7977810653
+Karad,Loharwadi,Aappa Baburao Aawale,8390320905
+Karad,Maharugdewadi,Surykant Sampat Pawar,7780978214
+Karad,Malkhed,Sandip Jagnnath Mohite,9773555264
+Karad,Malwadi,Samrudi Hanmant Ghadage,9075189633
+Karad,Mangwadi(Umbraj),Surykant Sampat Pawar,7498777306
+Karad,Manu,Amol Dinkar Yelmare,8788332385
+Karad,Marali,Sikandar Dinkar Kavale,9657545521
+Karad,Maskarwadi,Jayshri Sunil Suryavanshi,9767340922
+Karad,Masur,Rohit Dilip Kadam,7743926792
+Karad,Mervewadi,Varsha Tatyasaheb Madane,7620510974
+Karad,Mhasoli,Ramchandra Jagannath Shevale,9960373257
+Karad,Mhopre,Akshay Sanjay Kamable,9561224027
+Karad,Munawale,Narayan Vitthal Bhosale,9096628363
+Karad,Munde,Prashant Raghunath Bhosale,9730653032
+Karad,Nadashi,Nitin Chandrakant Tambe,8805314214
+Karad,Nandgaon,Dhairyashil Shankar Patil,9766323307
+Karad,Nandlapur,Dhayrshil Shankar Patil,9766323307
+Karad,Nanegaon B,Sachin Shivaji More,8999637875
+Karad,Narayanwadi,Vishal Shivaji Sathe,7875694731
+Karad,Navin Kavathe,Somnath Hanmant Chavan,9657291530
+Karad,Navin Malkhed,Arjun Hamnant Palkhar,7219599080
+Karad,Nigadi,Vikas Balkrushna Gholap,8329850522
+Karad,Ondoshi,Tanaji Shivaji Sawant,9881573894
+Karad,Ound,Somnath Shivaji Thorat,8530459815
+Karad,P Supane,Rajaram Shripati Chavan,9762971359
+Karad,Pachund,Krushna Tatyaba Jadhav,8767389551
+Karad,Pachupatewadi,Krushnat Dinkar More,7755985845
+Karad,Padali Helgaon,Vinod Dattatray Jadhav,9284484614
+Karad,Pal,Arjun Hanmant Palkar,7219599080
+Karad,Parle,Sagar Lalaso Nalawade,9657110746
+Karad,Perale,Manisha Tukaram Bhise,9763489349
+Karad,Pimpari,Yashwant Vitthal Chavan,9834250882
+Karad,Pothale,Suvarna Parshuram Desai,9765191991
+Karad,Rethare Budruk,Ganesh Sadashiv Bhise,8999775063
+Karad,Rethare Khurd,Sagar Nivasrao Jadhav,8788955254
+Karad,Riswad,Dhanaji Shivaji Mahapure,9022028417
+Karad,Saidapur,Pratik Jalindar Mane,9762632004
+Karad,Sajur,Navnath Dattatray Chavan,9975167160
+Karad,Sakurdi,Ramesh Sambhaji Shinde,9767574412
+Karad,Salshirambe,Rishikesh Mahadev Patil,9158656158
+Karad,Sanjaynagar,Vikas Baban Salunkhe,9822549638
+Karad,Savade,Dipali Sunil Gurav,7219163672
+Karad,Savarghar,Rohini Kiran Sapkal,8308928215
+Karad,Sayapur,Satish Rajaram Waghmare,7620720933
+Karad,Shahapur,Shankar Mahadev Bhosale,9096407515
+Karad,Shamgaon,Subhash Kashinath Waghamare,7499497978
+Karad,Shelakewadi(Ye.),Rohan Ravindra Shelke,8080561575
+Karad,Shenoli,Rajendra Krushnaji Sawant,8275038314
+Karad,Shere,Ramesh Lalaso Nikam,8007330436
+Karad,Shewalewadi(Mha.),Suhas Balkrushna Shevale,9850170339
+Karad,Shewalewadi(U.),Sagar Tanaji Shevale,9823037507
+Karad,Shindewadi(Wing),Sanjay Shamrao Shinde,9657820887
+Karad,Shinganwadi,Shahanavaj Hamidalli Mulla,9763391096
+Karad,Shirawade,Narayan Jayshing Katvate,7066823799
+Karad,Shirgaon,Rohini Suhas Shitole,8806832554
+Karad,Shivade,Sudhir Ramchandra Dixit,9763451672
+Karad,Supane,Madan Ganpat Mali,9158214046
+Karad,Surali,Amit Chandraknat Bhosale,9970649360
+Karad,Talbid,Sachin Sureshkumar Shaha,8698199634
+Karad,Talgaon,Sunita Sanjay Gujale,7821955142
+Karad,Tambave,Nitin Shrirang Pawar,9096882990
+Karad,Tarukh,Suhas Baban Kurade,8999159913
+Karad,Tasawade,Vishal Shivaji Kharat,8208217119
+Karad,Tembhu,Swati Yogesh Bhandalkar,9604710573
+Karad,Tulsan,Ganesh Popat Pawar,9765120910
+Karad,Umbraj,Prashant Shivaji Dhanave,9767575868
+Karad,Vadgaon(H),Anil Uttam Thavare,7972045883
+Karad,Vadgoan(U),Dattatray Popat Koli,8262872925
+Karad,Vadoli(Nile.),Anna Nanasaheb Pawar,9860445990
+Karad,Vagheri,Hajjualli Hamid Patel,9665786344
+Karad,Vahagaon,Santosh Vijay Jamdar,7875058078
+Karad,Vasti Sakurdi,Vaibhav Ananda Kanse,9420277749
+Karad,Wanarwadi,Ravindr Shamrav Todkar,9892842355
+Karad,Wathar,Aniket Ganesh Mane,7030508136
+Karad,Wing,Suraj Anil Katkar,9021438427
+Karad,Yadavwadi,Somnath Vasant Mohite,8698648893
+Karad,Yelgaon,Adity Vasant Patil,7028399659
+Karad,Yenape,Vaibhav Voshnu Patil,9356282853
+Karad,Yerwale,Klpana Ganesh Yadav,9922186948
+Karad,Yewati,Suresh Tatoba Shewale,8275350858
+Khatav,Ambheri,Vishal Prakash Pawar,8806363993
+Khatav,Ambvade,Arati Sanidev Chavan,8600273279
+Khatav,Anpatwadi,Rameshwer Kishan Matkar,9890774319
+Khatav,Anphale,Ashok Dhondiba Chougule,8805638389
+Khatav,Aundh,Tanaji Jagnnath Ingale,7769802137
+Khatav,Banpuri,Aabaso Pandurang Kambale,8806693025
+Khatav,Bhandewadi,Ajit Bajirang Phadtare,9356587462
+Khatav,Bhosare,Nitin Ramdas Jadhav,9561147333
+Khatav,Bhurakwadi,Sanjay Laxman Kadam,8007697114
+Khatav,Bhushangad,Dipak Bhaskar Jadhav,7620156668
+Khatav,Bombale,Sanket Maruti Nimbalkar,8554016134
+Khatav,Budh,Samadhan Chandrakant Kadam,9511973646
+Khatav,Chinchani,Madhukar Ajirao Nikam,7757968115
+Khatav,Chitali,Vaibhav Arjun Pawar,8390807985
+Khatav,Chorade,Laxman Ramchandra Madane,8605366237
+Khatav,Dahiwad,Rupesh Baban Jadhav,9226224464
+Khatav,Dalmodi,Ajit Gulabrao Mane,9822821042
+Khatav,Darjai,Vitthal Pandurang Patole,7058521843
+Khatav,Daruj,Sachin Balu Patole,9881502183
+Khatav,Datewadi,Satywan Shrirang Malave,8378047065
+Khatav,Dhakatwadi,Sagar Narayan Devkar,9527274353
+Khatav,Dhokalwadi,Prasad Dattatray Deshmukh,8446462611
+Khatav,Dhondewadi,Mahendra Aaba Lokhande,7507019433
+Khatav,Diskal,Gangaram Rajaram Pawar,8087475667
+Khatav,Enkul,Vijay Rajaram Tupe,7823075907
+Khatav,Gadewadi,Vishnu Maruti Jadhav,7768896439
+Khatav,Ganeshwadi,Tukaram Sopan Raut,9133507555
+Khatav,Garalewadi,Santosh Maruti Garle,9765119444
+Khatav,Garudi,Surykant Dadaso Bitale,9373825876
+Khatav,Garwadi,Dilip Laxman Dhavale,9527597352
+Khatav,Girijashankarwadi,Karan Anil Thorave,9075827577
+Khatav,Gopuj,Anil Ganpat Madane,7058183685
+Khatav,Goregaon (Va),Vijay Jagnnath Doiphode,7378652103
+Khatav,Goregaon Nim,Sachin Bhargav Jadhav,7385901380
+Khatav,Gosavyachiwadi,Kishor Laxman Bharade,9922021608
+Khatav,Gundewadi,Balaso Dada Nikam,9359146235
+Khatav,Gursale,Yogesh Ashok Sawant,9665550319
+Khatav,Hingne,Subham Dinkar Bhosale,8600358859
+Khatav,Hivarwadi,Laxman Jagnnath Deshmukh,7038884382
+Khatav,Holichagaon,Rupesh Shankar Howale,7972838080
+Khatav,Jakhangaon,Sudhakar Narsing Shinde,9921432812
+Khatav,Jamb,Vijay Dnyandev Shinde,9325800721
+Khatav,Kalambhi,Subhash Mansing Ghadage,9637193236
+Khatav,Kaledhon,Barkat Rajjak Shikalgar,9623933424
+Khatav,Kalewadi,Ananda Sarjerao Jagdale,9922103381
+Khatav,Kamthi (Parli),Rajendra Dinkar Bhise,9029744284
+Khatav,Kankatre,Pravin Ashok Yalmar,7709990557
+Khatav,Kansewadi,Sagar Kisn Jadhav,9767039254
+Khatav,Karandewadi,Dhiraj rajput,9623208472
+Khatav,Katalgewadi,Dattatray Uttam Jadhav,7507608369
+Khatav,KatarKhatav,Ravindra Jagdish Kumbhar,9822444857
+Khatav,Katewadi,Uttam Dasharath Korade,7517802568
+Khatav,Katgun,Somnath sadashiv kalokhe,9665770693
+Khatav,Khabalwadi,Nana Mohan Jadhav,9579089565
+Khatav,Kharshinge,Dattatray Dilip Gharge,9561119117
+Khatav,Khatav,Sharad Narhari Bobade,9665354999
+Khatav,Khatgun,Yuvraj Tukaram Gaikwad,9850016475
+Khatav,Kokrale,Sanidev Shivaji Chavan,8600273279
+Khatav,Kumathe,Aatmaram shamrao Mandve,9172400844
+Khatav,Kurle Rajache,Ganesh Sayajirao Mane,9503827655
+Khatav,Kuroli(Si),Kalyan Prakash Deshmukh,9881438803
+Khatav,Ladegaon,Krushnat Nivrutti Umape,9552425416
+Khatav,Lalgun,Santosh Balu Jadhav,9730821947
+Khatav,Landewadi,Sachin Laxman Surywanshi,9881669412
+Khatav,Loni,Jagnnath Ashok Kale,9075342081
+Khatav,Mandave,Keshav Ramchandra Khade,8975625771
+Khatav,Manetupewadi,Anandrao Balkrushna Mane,9561631320
+Khatav,Manjarwadi,Bhagvan Namdev Gaikvad,9702132551
+Khatav,Maradwak,Yogesh Shivram Ghadage,7776886452
+Khatav,Mhasurne,Abhijit Jayant Kashid,9096601848
+Khatav,Mol,Sachin Baban Bhandalkar,7796274344
+Khatav,Morale,Morale Sunil Tanaji Shinde,9923243836
+Khatav,Mulikwadi,Mulikwadi Laxman Jagnnath Deshmukh,9922421589
+Khatav,Musandwadi,Prakash Umaji Kawale,7840991139
+Khatav,Nadhwal,Haridas Gorakh Jadhav,9657492263
+Khatav,Naikachiwadi,Rohit Durvas Mandave,8390123425
+Khatav,Nandoshi,Sharad Hanamant Bitale,9881983971
+Khatav,Nawalewadi,Suraj Harischandra Shinde,9518572798
+Khatav,Ner,Amol Raghu Jadhav,9145660964
+Khatav,Nidhal,Ashok Narayan Khuspe,9175621448
+Khatav,Nimsod,Vaibhav Tukaram Ghadage,9637737665
+Khatav,Pachwad,Ganesh Ramchandra Ghadage,7774994742
+Khatav,Padal,Dhanaji Dagadu Hange,9921010117
+Khatav,Palasgaon,Munna Aalim Khot,8554808708
+Khatav,Palashi,Jagnnath Narayan Gaikwad,7057338493
+Khatav,Pandharwadi,Vikas Ramhari Barge,9561459884
+Khatav,Pangarkhel,Rupesh Shankar Jagtap,9096368428
+Khatav,Pargaon,Sandip Tukaram Pawar,8806063490
+Khatav,Pawarwadi,Santosh Uttam Kalokhe,8012577070
+Khatav,Pedgaon,Sagar Pandharinath Jagdale,7741074420
+Khatav,Phadatarwadi (Budh),Tukaram Kashinath Phadtare,9049276396
+Khatav,Phadatarwadi (Ner),Devanand Maruti Phadtare,7020501900
+Khatav,Pimpari,Tushar Rajaram Surve,8855941993
+Khatav,Popalkarwadi,Shridhar Pandurang Gogawale,8605423999
+Khatav,Punawadi,Shrikrushna Narayan Dangare,9850467430
+Khatav,Pusegaon,Ashok Narayan Jadhav,9049956158
+Khatav,Rahatani,Dhanaji Dnyaneshwar Thorat,9960345070
+Khatav,Ransingwadi,Dipak Ankush Jadhav,7558297558
+Khatav,Revalkarwadi,Prakash Vishnu Bitale,9765922707
+Khatav,Rewali,Ganpat Tukaram Waikar,7745085469
+Khatav,Satewadi,Kajal Sachin Bote,8275370184
+Khatav,Shenwadi,Adhik Shivaji Waghmare,9970761148
+Khatav,Shindewadi,Anil Ramrao Pawar,9970761148
+Khatav,Shiraswadi,Santosh Kisan Kudale,9309718594
+Khatav,Suryachiwadi,Vaishnavi Madhav Lohar,8806778960
+Khatav,Tadwale,Jalindar Kisan Kale,9503641978
+Khatav,Tarswadi,Ajit Chintaman Sawant,8080600579
+Khatav,Trimali,Hanmant Shrirang Koli,9623099833
+Khatav,Umbarde,Vijay Rajendra Pawar,9011207292
+Khatav,Umbarmale,Dhanaji Bhauso Lawand,8591583807
+Khatav,Unchithane,Mahesh Jaysing Shinde,8983441299
+Khatav,Vadgaon (Jaswa),Kavita Sanjay Honrao,7709135681
+Khatav,Vadi,Ganesh Vishnu Yewale,7798688034
+Khatav,Vardhangad,Rupali Dattatray Bhujbal,9156159174
+Khatav,Varud,Mohan Laxman Mali,9021298991
+Khatav,Vikhale,Laxman Jagnnath Deshmukh,9921191029
+Khatav,Visapur,Samir Sikandar Mulani,9881914943
+Khatav,Wakalwadi,Sanjay Muralidhar Dol,9309943311
+Khatav,Wakeshwar,Suraj Dnyandev Suryawanshi,9049822362
+Khatav,Wetne,Rushikesh Jitendra Nalvade,9766114046
+Khatav,Yeliv,Vishvnath Atmaram Jagtap,9763351257
+Khatav,Yeralwadi,Vishal Vijay Shinde,9765963698
+Koregaon,Ambheri,Shankar Bajirang Madane,8972373785
+Koregaon,Ambwade S.Ko.,Rajesh Kisan Salunkhe,9423037126
+Koregaon,Ambwade S.Wa.,Chaitali Navnath Sakunde,9370806317
+Koregaon,Anbhulewadi,Hanmant Bapurao Anbhule,9011610659
+Koregaon,Anpatwadi,Bharat Tukaram Mulik,8779158367
+Koregaon,Apshinge,Amit Satish Phadtare,9082751208
+Koregaon,Arabwadi,Anuja Rushikesh Bhosale,8999401063
+Koregaon,Arvi,Sakharam Shankar Jadhav,9561811961
+Koregaon,Asangaon,Sanket Sanjaykumar Gurav,9689658653
+Koregaon,Asare,Aparna Rupesh Sapkal,9404606798
+Koregaon,Asgaon,Ramesh Dharmraj Bhadvalkar,9881588335
+Koregaon,Banwadi,Shraddha Abhijeet Yadav,7972850131
+Koregaon,Bargewadi,Satish Vishwanath Jadhav,7350738230
+Koregaon,Belewadi,Dasharath Uttam Kanse,7741025425
+Koregaon,Bhadale,Ashok Nivrutti Bhandalkar,9096451022
+Koregaon,Bhakarwadi,Dattatray Yashwant Yadav,9881874508
+Koregaon,Bhaktwadi,Shital Santosh jadhav,9420463427
+Koregaon,Bhandramachi,Satyawan Shivaji Madane,9021805172
+Koregaon,Bhatwadi,Komal Tanaji Budhawale,7387652701
+Koregaon,Bhavenagar,Vijay Uttam sul,9766664099
+Koregaon,Bhimnagar,LILABAI SRIRANG KADAM,9421110443
+Koregaon,Bhiwadi,Ramdas Sitaram Shelar,7276233286
+Koregaon,Bhose,BHOSE Dnyaneshwar Vitthal Mane,8888355988
+Koregaon,Bichukule,Mahadev Dnyadev Pawar,7823868948
+Koregaon,Bobadewadi,Bajarang Uttam Bobade,9527228125
+Koregaon,Bodhewadi Bha.,Gajanan Vitthal Nidan,9172914984
+Koregaon,Bodhewadi Chi.,Vishnu Vasant Bodhe,9623168190
+Koregaon,Borgaon,Adhikrao Tanaji Badade,9096750018
+Koregaon,Boriv,Satish Vasant Pol,7841957181
+Koregaon,Borjaiwadi,SACHIN Sankpal SANKPAL,9049148556
+Koregaon,Chanchli,Jayveer Hindveer Kadam,9172578278
+Koregaon,Chandwadi,Pratik Vijay Shinde,9420774365
+Koregaon,Chavaneshwar,Amar Dattatray Nalawade,9075967618
+Koregaon,Chilewadi,Ashok Gajanan Raut,7387417327
+Koregaon,Chimangaon,Nitin Uttam Ghorpade,7447314923
+Koregaon,Chorgewadi,Shubhangi Kiran Shinde,9172761234
+Koregaon,Choudharwadi,Afajal Isak Sayyad,9763269864
+Koregaon,Dahigaon,Sachin Janardan Kshirsagar,9860181911
+Koregaon,Dare,Ajit Tanaji Sapkal,9665372016
+Koregaon,Deur,Manda Madhukar Jadhav,9146521974
+Koregaon,Dugi,Balkrushna Tanaji Bodhe,9860434120
+Koregaon,Durgalwadi,Mithun Shashikant Dolare,9657672595
+Koregaon,Ekambe,SANDESH GORAKH KAMBALE,9823340835
+Koregaon,Eksal,Rupali Vikram Phadtare,9623873570
+Koregaon,Ghadgewadi,Mahesh Tukaram Jadhav,9527767206
+Koregaon,Gighewadi,Madhukar Vinayak Sawant,7741912234
+Koregaon,Godasewadi,Vivek Devdas Shirke,9850809429
+Koregaon,Gogawalewadi,Abhishek Suresh Kadav,9373079759
+Koregaon,Golewadi,Satyawan Tatyaba Gole,9404259073
+Koregaon,Gujarwadi P.,Prathmesh Ramdas Pawar,8262860965
+Koregaon,Hasewadi,Navnath Mohan Ghorpade,9689480305
+Koregaon,Hivare,Narayan Shrirang Khatal,9767735152
+Koregaon,Holewadi,Jay Balaso Mane,9322287221
+Koregaon,Jadhavwadi,Avinash Mugatrav Wagh,9561542770
+Koregaon,Jaigaon,Kalyani Ajay Jadhav,9921168945
+Koregaon,Jamb Bu.,Supriya Satish Nikam,8446399349
+Koregaon,Jamb Khu.,Ganesh Ramchandra Pawar,9763721953
+Koregaon,Kaloshi,Rasika Ganesh Dige,9766065909
+Koregaon,Kanherkhed,Jivan Arjun Nande,9689090842
+Koregaon,Karanjkhop,Imran Siraj Shaikh,9689070476
+Koregaon,Kathapur,Tushar Appaso Kenjale,7499845670
+Koregaon,Khadkhadwadi,Sunil Laxman Sawant,9970223588
+Koregaon,Khamkarwadi,Navnath Kashinath Sawant,9921573028
+Koregaon,Khed,Karishma Abhay Kashid,9096109143
+Koregaon,Khirkhindi,Savita Sachin Jadhav,9552873009
+Koregaon,Kinhai,Vishal Dnyadev Kashid,9405748607
+Koregaon,Kiroli,Dnyaneshwar Tanaji Chavan,9011554556
+Koregaon,Kolwadi,Soham Somnath Bhosale,9067309058
+Koregaon,Kombadawadi,Prakash Popat Bhosale,7447314923
+Koregaon,Kumthe,Sagar Shrirang Jagdale,9860209778
+Koregaon,Lhasurne,Shekhar Popat Mane,7387097559
+Koregaon,Madhyapurwadi,Aniket Ashok Pisal,9970223588
+Koregaon,Mangalapur,Shubham Sudhakar Ghorpade,8446399349
+Koregaon,Mohitewadi,Yuvraj Vasant Khandait,9763526152
+Koregaon,Morband,Dipak Maruti Bodake,8265075744
+Koregaon,Mugaon,Bhairu Sitaram Bhandalkar,8080347156
+Koregaon,Nagewadi,Sandip Mahadev Bhosale,9870221096
+Koregaon,Nagzari,Nana Shivaji Bhosale,9960020672
+Koregaon,Naigaon,DIPAK MARUTI BODAKE,8265075747
+Koregaon,Nandwal,Chandrakant Vinayak Bodare,9730689779
+Koregaon,Navalewadi Bi.,Bhivaji Dada Bhise,9822495248
+Koregaon,Nhavi Bu.,Mangesh Bhimrao Kharat,8805518976
+Koregaon,Nhavi Khu.,VITTHAL DILIP BHOSALE,8766882561
+Koregaon,Nigadi,Sandip Namdev Jagtap,8600902940
+Koregaon,Palshi,Akshada Abhijit Pisal,7666008653
+Koregaon,Partwadi,Shubham Bandu Disale,7620165531
+Koregaon,Pawarwadi,Haridas maruti Pawar,9422048977
+Koregaon,Peth Kinhai,Shubhangi Nitin Kamble,9096517823
+Koregaon,Phadtarwadi,Nikhil Sanjay Ahirekar,9764872212
+Koregaon,Pimpari,Abhijit Narayan Pawar,9665020155
+Koregaon,Pimpode Bu.,Sharad Saidas Lembhe,9421120135
+Koregaon,Pimpode Khu.,Ajinkya Ramdas Kadam,9604925995
+Koregaon,Ramusmachi,Somnath Popat Budhawale,7796057292
+Koregaon,Randullabad,Prashant Lahujirao Jagtap,9823676723
+Koregaon,Rautwadi,Varsha Vinod Dhawale,7517768046
+Koregaon,Rewadi,Dipak Balwant Landage,9850920496
+Koregaon,Rikibdarwadi,Vitthal Vyankatrao More,9881390765
+Koregaon,Rui,Manohar Shamrao Veer,9881985968
+Koregaon,Saigaon A.,Rawaleshwar Prakash Ghorpade,8446399349
+Koregaon,Saigaon Dha.,Sushant Ashok Ghorpade,9975481213
+Koregaon,Sangvi,Usha Balu Bhosale,9822235115
+Koregaon,Sap,Atul Baban Bhujbal,9766317717
+Koregaon,Sarkalwadi,Sakshi Shubham Patole,8591736139
+Koregaon,Sasurve,SASURVE Gurudev Daulat More,9373211088
+Koregaon,Satararoad,Pratik Arvind Babar,7057728704
+Koregaon,Sathewadi,Ajit Popat Jadhav,9146567314
+Koregaon,Shelti,Vinayak Balu Sankpal,9689851562
+Koregaon,Shendurjane,Sunil Shivaji Bhosale,8459287144
+Koregaon,Shirambe,Komal Vishal Chavan,7020134910
+Koregaon,Shirdhon,Sanshya Uddhav Kasurde,7387918509
+Koregaon,Siddharthnagar,Tejesh Vitthal Kamble,8149951408
+Koregaon,Solshi,Balkrushna Janardan Tate,9561745312
+Koregaon,Sonake,Amit Pradip Yadav,9763741083
+Koregaon,Sultanwadi,Tejaswini Akash Kalase,9325875626
+Koregaon,Surli,Pramod Dattatray Ghadge,8208312121
+Koregaon,Tadwale S.Ko.,CHANDRAKANT NAMDEV KAMBALE,9763899273
+Koregaon,Tadwale S.Wa.,Kamalakar Shivajirao Bhoite,8275275841
+Koregaon,Takale,Ganesh Jagannath Ghadage,8208825940
+Koregaon,Taliye,Ashwini Pravin More,8766873781
+Koregaon,Tambi,Mahesh Baban Jadhav,8380867893
+Koregaon,Tandulwadi,Milanrao Tukaram Shinde,9975173607
+Koregaon,Targaon,Vinod Baban Jagtap,8600649919
+Koregaon,Triputi,Rajendra Jagnnath Chavan,9011596994
+Koregaon,Vikhale,Santosh Maruti Pol,9960149393
+Koregaon,Wadachiwadi,Suhas Lahuraj Bhosale,9404219945
+Koregaon,Waghjaiwadi,Sushant Sanjay Pawar,7775966847
+Koregaon,Wagholee,Sachin Shankar Pawar,9370675816
+Koregaon,Wathar Ki.,Sunita Nathu Koli,9503330338
+Koregaon,Welang K.,Rajendra Bhagwan Kakade,9404319575
+Koregaon,Welang Shi.,Hemant Shamrao Sapkal,9561493069
+Koregaon,Welu,Vijay Shantaram Shinde,9763491493
+Man,Anbhulewadi,Prakash Kundlik Kadam,9922440260
+Man,Andhali,Dnyaneshwar Prakash Namdas,9890044140
+Man,Bangarwadi,Vandana Bhiku Kale,8805853113
+Man,Bhalwadi,Nitin Vilas Shinde,9822252115
+Man,Bhandawali,Vikram Atul Suryavanshi,9604070787
+Man,Bhataki,Somnath Shrike,9766591533
+Man,Bidal,Suhas Vilas Jagdale,9730093905
+Man,Bijawadi,Shivaji Baban Patil,9096988033
+Man,Bodake,Vaman Antu Jadhav,8975428744
+Man,Bothe,Due to Vaibhav Arun,9325267433
+Man,Chillarwadi,Nitin Ramhari Jhurale,9975530057
+Man,Dangirewadi,Arvind Jagdale,9626182180
+Man,Danwalewadi,Vaibhav Nanasaheb Borat,9766510741
+Man,Devapur,Sukhdev Narayan Bansode,7709630725
+Man,Dhakani,Dinkar Laxman Torane,9359307613
+Man,Dhamani,Vaibhav Kelupanth Doifode,8459419898
+Man,Dhuldev,Rahul Uttam Kolekar,7796139005
+Man,Didwaghwadi,Sarika Dhula Didvagh,8600531953
+Man,Divadi,Sachin Kumar Jagannath Jadhav,9521639728
+Man,Diwad,Rajendra Shashikant Jadhav,9921199980
+Man,Doragewadi,Changdev Tanaji Chahan,7218706918
+Man,Gangoti,Dilip Zimal,9665486975
+Man,Gattewadi,Duryodhan Shivaji Gorad,9552292845
+Man,Gondawale Bk.,Suraj Shamrao Ranpise,8381049602
+Man,Gondawale Kr.,Surekha Navnath difficult,9561347227
+Man,Hastanpur-Gherewadi,Shivaji Vitthalrao Jagtap,9404627806
+Man,Hawaldarwadi,Sachin Haridas Sawant,9834493133
+Man,Hingani,Sushma Dilip Sartape,9822342300
+Man,Injbav,Kabir Kundlik Bansode,9503910079
+Man,Jabhulani,Ajit Namdev Kalel,9096249397
+Man,Jadhavwadi,Ramchandra Nimbalkar,8108405530
+Man,Jashi,Shivaji Sopan Sawant,9404652649
+Man,Kalchaundi,Natha Mane,9834685695
+Man,Kalewadi,Sumit Netaji Chavan,7620760424
+Man,Karkhel,Rohidas Kisan Katkar,9373282448
+Man,Kasarwadi,Akshay Mahadev Kshirsagar,8698488406
+Man,Khadaki,Vaishali Vijay Khandekar,9370915293
+Man,Khudbav,Akshay Jagannath Dubal,9561160164
+Man,Kirkasal,Shankar Dagdu Godse,952731385 8
+Man,Kolewadi,Jagannath Eknath Ghadge,9604812529
+Man,Kukudwad,Chandrakant Katkar,9764579396
+Man,Kulkjai,Navnath Mohan Potekar,9423489698
+Man,Kuranewadi,Prashant Atpadkar,9421024139
+Man,Lodhawade,Arun Jagannath Hazare,9921895605
+Man,Mahimanghad,Abaji Jadhav,7498852249
+Man,Malwadi,Janardhan Dhula Kharat,9764563123
+Man,Mankarnwadi,Ramesh Vaman Mohite,9763649053
+Man,Mardi,Sukrit Nagesh Sawant,7709165569
+Man,Mograle,Balaso Dinkar Jagdale,9404865467
+Man,Mohi,Jijaba Maruti Jadhav,7709355547
+Man,Narwane,Kisan Namdev Chavan,9881542641
+Man,Pachawad,Satish Bhikaji Jagdale,9421414828
+Man,Palasawade,Dadaso Rajaram Pisal,9284838482
+Man,Palashi,Kailas Dagdu Thombre,9730329042
+Man,Pandharwadi,Narayan Ramchandra Suryavanshi,9423876332
+Man,Panghari,Raghu Mukund Londhe,7744058145
+Man,Panvan,Haridas Ramchandra Narle,9096987586
+Man,Parkandi,Krishna Rao Baba Pingle,8108260056
+Man,Paryanti,Bhausaheb Sartape,8007653963
+Man,Pimpri,Shahaji is difficult,8855941993
+Man,Pingali Budruk,Atul Ramesh Kamble,9604373528
+Man,Pingali Khurd,Prakash Dhanaji Waghmare,9921132208
+Man,Pulkoti,Gorakhnath Mahadev Sawant,8459521940
+Man,Rajwadi,Swati Gorakhnath Gegege,9156235663
+Man,Ranand,Yuvraj Digambar Sawant,9404237843
+Man,Ranjani,Tatyaso Sadashiv Khade,9359016459
+Man,Satrewadi,Avinash Rajendra Dhumal,9156323978
+Man,Shambhukhed,Rahul Vishnu reader,9309860924
+Man,Shenwadi,Vasant Ramchandra Khilari,7020007865
+Man,Shevari,Rajaram Maruti Takle,9689348274
+Man,Shindi Budruk,Rajendra Dhoniram Thombre,9921372055
+Man,Shindi Khurd,Ramchandra Sarjerao Jadhav,9503045230
+Man,Shingnapur,Chhatrapati Vaman Bhosale,8888961191
+Man,Shirwali,Ramchandra Mohan Jagdale,9623114944
+Man,Shripalwan,Mahadev Jagannath Dhembere,9096450883
+Man,Sokasan,Ramhari Chandrakant Deokar,9284044612
+Man,Swarupkhanwadi,Hanamant Anandrao Indalkar,9011274036
+Man,Takewadi,Satish Parashuram Shinde,8830741291
+Man,Thadale,Ravindra Hanamant Kumbhar,9763524696
+Man,Tondale,Raju Dashrath Kharat,9172937161
+Man,Ukirade,Hanamant Anandrao Indalkar,9422328951
+Man,Vadgaon,Nandkumar Ananda Jadhav,9529076668
+Man,Vadjal,Chandrakant Gyanu Katkar,9764579396
+Man,Vaki,Babaso Rustum Sathe,9421561346
+Man,Valai,Sujata Gorakhnath Narle,7066412151
+Man,Var-Malwadi,Appa Dinkar Bansode,7410515939
+Man,Var-Mhaswad,Namdev Bhau Yadav,7219487421
+Man,Vaverhire,Kailas Bapurao Nilakhe,9975290450
+Man,Virali,Ashlesha Arvind Ghutukde,9665147949
+Man,Waghmodewadi,Nitin Nana Waghmode,7709650587
+Man,Warugad,Vishal Jadhav,9834908031
+Man,Yelewadi,Sarjerao Jadhav,7397870631
+Patan,Aabdarwadi,Prakash Ramchandra Chavan,9890230978
+Patan,Aabrang,Shankar Baban Pawar,9881221549
+Patan,Aad Dev,Satish Shivaram Gaikwad,7774959318
+Patan,Aambrule,Vikas Sahebrao Topale,9764137174
 Patan,Aaswalewadi,विलास शंकर असवले,8411897491
-Patan,Bhambe,सुभाष जगन्नाथ सपकाळ,9423317472
-Patan,Dhawade,योगेश शंकर जाधव,8108710369
-Patan,Wekhandwadi,राजेंद्र दादासो पवार,9860419350
+Patan,Aatoli,Nilesh Shamrao Pawar,9049613893
+Patan,Aawarde,Rupali Sudhir Gurav,8010981250
+Patan,Adulgaonthan,Ravindra Nathuram Watkar,9405250517
+Patan,Adulpeth,Shital Krushnat Desai,7350062546
+Patan,Ambale,Bhimrao Laxman Sapkal,9637586444
+Patan,Ambeghar T Marali,Anand Shankar Kolekar,9594832537
+Patan,Ambwade Khu.,Deepak Baburao Surve,8552009021
+Patan,Ambwane,Amol Narayan Jagatap,9604523392
+Patan,Bacholi,Shankar Atmaram MOhite,9657413378
+Patan,Bahule,Rushikesh Jaannath Adsule,9673298498
+Patan,Bambawade,Vijay Ashok Gurav,9623751868
+Patan,Bandwat,Subhash Waman Suryawanshi,8108296729
+Patan,Banpethwadi,Priyanka Sachin Salunkhe,9922573784
+Patan,Banpuri,Amit Sambhaji Patil,9637678268
+Patan,Belwade Khu.,Jayvant Mahipati Pawar,9049487362
+Patan,Bhambe,Subhash Jagannath Sapkal,9423317472
+Patan,Bharsakhale,Dinesh Ramchandra Pawar,9075114511
+Patan,Bhilarwadi,Shivaji Baban Bhilare,7875473054
+Patan,Bhosgaon,Sandhya Sandip Kachare,8390843481
+Patan,Bhudkewadi,Anita Laxman More,9067655436
+Patan,Bibi,Suryakant Balaso Jadhav,9209109030
+Patan,Bondri,Sanjay Bhagwat Kamble,9588455857
+Patan,Chalkewadi,Sanket Uttam Karpe,7021135453
+Patan,Chaphal,Savita Dayanand Rakate,9503096256
+Patan,Chavanwadi Dh,Dinkar Shankar Chavan,8390361712
+Patan,Chavanwadi Na,Dattatray Chintu Chavan,9699185900
+Patan,Chikhalewadi,Poonam Mahesh Varekar,9082246119
+Patan,Chiteghar,Vitthal Baburao Shinde,9527433650
+Patan,Chopdarwadi,Vishal Krushnat Chopdar,9175377830
+Patan,Chophadi,Mahesh Adhikrao Jadhav,9607757695
+Patan,Chougulewadi (Ka),Jayashri Sunil Yadav,9822136268
+Patan,Chougulewadi Sa,Vitthal Shankar Suryawanshi,8806043462
+Patan,Dadholi,Sambhaji Sanjay Dange,9923224236
+Patan,Dakewadi (Ka),Tukaram Shamrao Dadave,9421433075
+Patan,Dangeshetiwadi,Navnath Laxman Jadhav,9921316139
+Patan,Davari,Remesh Vitthal Dholare,9011701635
+Patan,Derwan,NILESH ANANDA SONAVALE,9145588789
+Patan,Dhadamwadi,Ravindra Tukaram Salunkhe,8308499874
+Patan,Dhamani,Abaso Shivaji Dinde,9764782446
+Patan,Dhankal,Satyam Ravindra Lad,8411992067
+Patan,Dhawade,Yogesh Shankar Jadhav,8108710369
+Patan,Dhayti,Sunita Chandrakant Dhere,7218066626
+Patan,Dhebewadi,Balwantrao Adhik Deshmukh,7768944243
+Patan,Dhoroshi,Pravin Jagannath Kate,9657470320
+Patan,Digewadi,Parashuram Bandu Shirke,9158743756
+Patan,Divashi Budruk.,Santhosh Ramchandra Nangare,9579532543
+Patan,Divshi Khurd.,Vijay Dagadu Kadam,9594057222
+Patan,Dusale,Sankalp Krushnat Kadam,9322608433
+Patan,Gadhakhop,Ravindra Maruti Chorge,8108132026
+Patan,Galmewadi,Dhiraj Pratap Chandugade,7083192618
+Patan,Garwade,Harshada Kishor Yadav,9764318602
+Patan,Gavdewadi,Sandip Chimaji Tate,7676272303
+Patan,Gavhanwadi,Rajendra Laxman Gavhane,9970769240
+Patan,Ghanav,Dhondiram Ramchandra Suryawanshi,9850454983
+Patan,Ghot,Rodhit Krushnat Shinde,7038579064
+Patan,Ghothane,Vikas Dagadu Kadam,8108971437
+Patan,Girewadi,Jitendra Rajaram Mane,9372987413
+Patan,Gokul T. Helwak,Swati Nathuram Sutar,9307925343
+Patan,Gokul T.Patan,Sandip Shamrao Galve,9867450798
+Patan,Goshatwadi,Anand Pandurang Mohite,7722085370
+Patan,Govare,Adinath Vitthal Kadam,8591727995
+Patan,Gudhe,Rupali Pradeep Patil,7507285985
+Patan,Gunjali,Sitaram Dnyandev Lad,7219523812
+Patan,Hawalewadi,Dilip Shankar Hawale,9545295003
+Patan,Helwak,Manish Sanjay Sutar,9322654880
+Patan,Humbarwadi,Pramod Parashram Tikudave,7875071529
+Patan,Humbrali,Gitanjali Ravindra Patil,9322582332
+Patan,Jadhavwadi,Vijay Shivaji Pawar,7738020250
+Patan,Jalav,Sanjay Ramchandra Kadam,9673639381
+Patan,Jalgewadi,Swapnil Dinkar Salunkhe,9922118107
+Patan,Jamdadwadi,Sushama Anil Jamadade,7028527472
+Patan,Janugadewadi,Bharat Ramchandra Mane,9405252785
+Patan,Jarewadi,Asma Salim Mulla,7769969095
+Patan,Jinti,Pravin Yashawant Patil,9158197164
+Patan,Kadave Buduk.,Iqbal Mahibub Mahat,7709480739
+Patan,Kadave Khurd.,Ganesh Vilas Mane,9699073751
+Patan,Kadhene,Yavraj bhanudas ghare,8806502679
+Patan,Kadoli,Suraj Laxman Yedage,9307979662
+Patan,Kahir,Manoj Ananda Shinde,9764056096
+Patan,Kalambe,Amar Tukaram Jadhav,9404724570
+Patan,Kalgaon,Reshma Baburao Desai,9763535365
+Patan,Kalkewadi,Santosh Parasharam Mohite,9552934439
+Patan,Kaloli,Sunil Shamrao Pawar,9657796873
+Patan,Kamargaon,Manohar Nathuram Chalke,7038839623
+Patan,Karale,Shivaji Bhagvan Salunkhe,9689247171
+Patan,Karate,Sagar Shrirang Suryawanshi,9096404763
+Patan,Karpewadi,Chandrakant Shivaji Karape,9764012756
+Patan,Karwat,Lahu Vitthal Shirke,8169784873
+Patan,Kasani,Vishal Sitaram Kadam,9765503912
+Patan,Kathi,Rajesh Dilip Jadhav,9689839163
+Patan,Katwadi,Dnyaneshwar Ramesh Bhagyawant,7083081244
+Patan,Kavadewadi,Laxman Dagdu Kadam,9604825743
+Patan,Kawarwadi,Subhash Prakash Kawar,7219392608
+Patan,Keloli,Pravin Ramesh Chavan,7620542380
+Patan,Ker,Sunita Ankush Pisal,9561597320
+Patan,Keral,Vijay Shivaji Gujar,8888496564
+Patan,Khale,Santosh Ananda Mahapure,7517073303
+Patan,Khivashi,Balkrushna Kisan Jadhav,9527980065
+Patan,Khonoli,Ravindra Ashokrao Jadhav,9518517384
+Patan,Kocharewadi,Atmaram Ramchandra Suryawanshi,9326843937
+Patan,Kokisare,Machindranath Chandar Jadhav,7775962673
+Patan,Kolekarwadi,Saurabh Shamrao Bachulkar,7767039920
+Patan,Kondal Pu,Swapnali Gautam Tandale,7773936151
+Patan,Konjwade,Chean Tukaram Udugade,9967347037
+Patan,Koriwale,Shriram Adhik Shinde,8600425108
+Patan,Kumbhargaon,Dipali Bhagwan Chalke,9168104915
+Patan,Kushi,Sonali Arun Mohite,9527598806
+Patan,Kusrund,Sachin Suresh More,8308377806
+Patan,Kuswade,Uday Uttam Yadav,9689839163
+Patan,Kuthare,Dipak Sampatrao Patil,7798962275
+Patan,Lendhori,Suresh Nivrutti Sutar,9623167437
+Patan,Lugdewadi,Shivaji Ananda Salunkhe,9423807649
+Patan,Mahind,Sanjay Ramchandra Sutar,9764927541
+Patan,Majgoan,Abhijit Rajaram Chavan,9096879894
+Patan,Maldan,Akash Mukund Kale,7387242618
+Patan,Malharpeth,Pranav Prakash Panaskar,8530877254
+Patan,Maloshi,Akash Krushnat Pawar,8291879702
+Patan,Mandrul Haveli,Aruna Ajit Pujari,9145683217
+Patan,Mandrul Kole,Rupesh Shashikant Sakhare,7219595719
+Patan,Mandrul Kole Khu.,Manaji Nivrutti Rode,9049054821
+Patan,Mandure,Ruchita Manohar Gurav,7887539365
+Patan,Maneri,Pandurang Chandrakant Sawant,7447745442
+Patan,Manewadi,Vinod Jalindar Mane,8007108248
+Patan,Manyachiwadi,Vitthal Ramchandra Mane,9975529343
+Patan,Marali,Vishvajeet Mugutrao Shinde,8007421043
+Patan,Marathwadi,Rupali Ganesh Sathe,9673566621
+Patan,Marloshi,Priyanka Moahendra Bhandare,9356313863
+Patan,Marul Haveli,Archana Arun Magare,9067476956
+Patan,Marul T. Patan,Bhimrao Maruti waghmare,9921731497
+Patan,Mathanewadi,Ajay Hanmant Mathane,9637585903
+Patan,Matrewadi,Sakharam Tukaram Matre,9545891260
+Patan,Mendheghar,Durgesh Ravindra Karande,9423804267
+Patan,Mhaskarwadi,Nitin Baburao Kadam,9167011749
+Patan,Mhavashi,Meena Manoj Ghadage,8692920796
+Patan,Morewadi,Vanita Mahesh Lohar,9145521732
+Patan,Mulgaon,Poonam Tuakram Molawade,8855986324
+Patan,Murud,Shubham Appaso Jadhav,9130467499
+Patan,Nade,NADE Sunita Sunil Pawar,9850426272
+Patan,Nadoli,Puja Sanjay Kadam,9021387382
+Patan,Nahimbe Chirambe,Bharati Anil Koli,9503782204
+Patan,Nanegaon Budruk.,Suvarna Santosh Ghadage,9137703724
+Patan,Naralwadi,Anandrao Shankar Chavan,9503324575
+Patan,Natoshi,Shantaram Dattatray Nikam,9656879512
+Patan,Nav,Ashwini Sachin Bamane,8983813223
+Patan,Navadi,Ajit Bapuso Pawar,9890688512
+Patan,Navsarwadi,Anil Shrirang Jamadade,9970524677
+Patan,Nerale,Subhash Sampat Salunkhe,9987008805
+Patan,Nigade,Vikas Kisan Kadam,9860274273
+Patan,Nivade,VINOD BAPURAO SAPKAL,7509771555
+Patan,Nivde Pu,jayshri Krishnat Godse,9922884372
+Patan,Nivi,Sakharam Tukaram Kadam,9820079831
+Patan,Nivkane,Ramesh Dnyanu Nikam,9921842405
+Patan,Nune,Shankar Hanmant Salunkhe,9594964706
+Patan,Pabalwadi,Dattatray Prabhakar Suryawanshi,7767833750
+Patan,Pachgani,Nilesh Suresh Surve,9657115832
+Patan,Pachputewadi,Ajinkya Atmaram Pachupate,9594859300
+Patan,Padloshi,Chandrakant Jayasing Dhere,9960324114
+Patan,Palashi,Dhondiram Natha Shelar,7083612714
+Patan,Paneri,Pandurang Ramchandra Sutar,9673646589
+Patan,Paprde Khu.,Varsha Shrimant Desai,9860796885
+Patan,Pathwade,Kavita Ramchandra Zore,9644380305
+Patan,Pawarwadi,Rohit Tanaji Pawar,8485069182
+Patan,Rahude,Shubham Hanmant Chavan,8888127178
+Patan,Ramishtewadi,Shankar Balu Ramishte,9702550927
+Patan,Rasati,Swati Pandurang Kadam,9420719715
+Patan,Ruwale,Seema Durgesh Bendkhale,9404299587
+Patan,Sabalewadi,Tanaji Parsharam Sable,9673279583
+Patan,Sadawaghapur,Sandip Ramchandra Zore,9657812672
+Patan,Saikade,Sonali Sachin Patil,9545416094
+Patan,Sakhari,Ashok Sitaram Bhise,7498208437
+Patan,Salave,Deepak Shankar Jadhav,7391917800
+Patan,Sanbur,Deepak Dattatray Jadhav,9322780177
+Patan,Sangwad,Shaila Navanath Shinde,9766214704
+Patan,Satar,Santosh Dadu Yadav,9145007093
+Patan,Sawarghar,Rahul Prakash Sapkal,9579123446
+Patan,Shendewadi,Akshay Dinkar More,7875070634
+Patan,Shidrukwadi,Swapnil Suryakant Pawar,8390237529
+Patan,Shindewadi,Sambhaji Khashaba Patil,9881934606
+Patan,Shinganwadi,Vaibhav Laxman Pawar,7499449661
+Patan,Shiral,Deepak Dattatray Palkar,9921776449
+Patan,Shitafwadi,Ravindranath Vasantrao Bate,9930909970
+Patan,Shivandeshwar,Sonali Yogesh Karande,9403931339
+Patan,Sonaichiwadi,Yogesh shivaji Patil,9822284345
+Patan,Sonawade,Shailendra Shamrao Mane,9175192844
+Patan,Sulewadi,Rohit Muraraji Shejwal,9730483907
+Patan,Surul,Kondiba Ramchandra Sankpal,9881441061
+Patan,Sutarwadi,Rajendra Motiram Pendhare,9823477207
+Patan,Taigadewadi,Shital Vilas Taigade,9767838126
+Patan,Tamine,Santosh Dadu Salunkhe,7263051723
+Patan,Tamkade,Ramchandra Daulat Jadhav,9145428281
+Patan,Telewadi,Amol Balaso Hinukale,9325608186
+Patan,Thomase,Nanda Tukaram Nalawade,9604809374
+Patan,Tolewadi,Ramchandra Narayan Pawar,9405128547
+Patan,Tondoshi,Ramchandr Sitaram Jadhav,9107857070
+Patan,Tripudi,Anand Shamrao Desai,9850794974
+Patan,Udhwane,Ramesh Shamrao Salunkhe,9049321297
+Patan,Umarkanchan,Sanket Sambhaji Mohite,8830619278
+Patan,Urul,Sachin Prakash Nikam,9623531350
+Patan,Vetalwadi,Amit Vishwas Pawar,9921210848
+Patan,Vihe,Begam Sikandar Mulla,8554930968
+Patan,Wadikotawadi,Sujit Vasant Pawar,9370190182
+Patan,Wajroshi,Nitin Vitthal Jagatap,7798956283
+Patan,Watole,Manoj Kisan Pawar,8888464360
+Patan,Wazole,Savita Rajendra Pawar,9322720575
+Patan,Wazoli,Tejswini Baburao Patil,7066544678
+Patan,Wekhandwadi,Rajendra Dadaso Pawar,9763399350
+Patan,Yerad,Ravindra Kisan Salunkhe,9623799287
+Patan,Yeradwadi,Omkar Anandrao Chavan,8855950314
+Patan,Yerphale,Ramchandra Mahadev Bhise,7798442173
+Patan,Zakade,Sachin Manohar Salunkhe,7410570748
 Phaltan,Andrud,अशोक दशरथ अडगळे,7020982149
 Satara,Agundewadi,सागर विलास अगुंडे,9594770516
 Satara,AKALE,अमोल अंकुश घागरे,9552616126
